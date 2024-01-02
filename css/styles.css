@@ -46,16 +46,11 @@ nav ul li a:hover {
     font-weight: 600;
 }
 
-.projects {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
 article {
     width: 50%;
     background-color: #0D0D0D;
     margin-top: 64px;
+    padding-bottom: 64px;
 }
 
 article h2 {
